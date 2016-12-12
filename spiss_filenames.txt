@@ -1,0 +1,4 @@
+D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\video_spi\spissvoronoi\quasar_20080825_gemini_deepf_quasar_0001_1920x1080.bmp
+D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\video_spi\spissvoronoi\quasar_alphacoders-com_83884.bmp
+D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\video_spi\spissvoronoi\Release\quasar_20080825_gemini_deepf_quasar_0001_1920x1080.bmp
+D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\video_spi\spissvoronoi\Release\quasar_alphacoders-com_83884.bmp
